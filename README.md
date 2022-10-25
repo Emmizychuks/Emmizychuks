@@ -1,4 +1,4 @@
-### Hi there 👋 
+# Hi there 👋 
 
 ## I'm a student of Zuri training currently undergoing training to become a Full-Stack developer
 
