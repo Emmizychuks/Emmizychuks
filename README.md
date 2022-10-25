@@ -1,13 +1,9 @@
 # Hi there 👋 
 
-## I'm a student of Zuri training currently undergoing training to become a Full-Stack developer
+## I'm a student of Zuri training currently undergoing training to become a Full-Stack developer.
 
 <!--
 **Emmizychuks/Emmizychuks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-Project Title
-A brief description of what this project does and who it's for
 
 Other Common Github Profile Section
 🧠 I'm currently learning... HTML,CSS,JAVASCRIPT,and PYTHON
