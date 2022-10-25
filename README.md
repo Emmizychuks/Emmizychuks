@@ -9,9 +9,9 @@
 🔗 Link (Reach me through)  [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/emmizychuks )
 
 🚀 About Me
-I'm a full stack developer...
-I'm also a student of University of Port-Harcourt studying geology and mining.
-I'm from Nigeria and i base in Port-Harcourt.
+### I'm a full stack developer...
+### I'm also a student of University of Port-Harcourt studying geology and mining.
+### I'm from Nigeria and i base in Port-Harcourt.
 
 
 
