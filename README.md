@@ -2,12 +2,12 @@
 
 ## I'm a student of Zuri training currently undergoing training to become a Full-Stack developer.
 
-🧠 I'm currently learning... HTML,CSS,JAVASCRIPT and PYTHON
+🧠 I'm currently learning... HTML, CSS, JAVASCRIPT and PYTHON
 
-👯‍♀️ I'm looking to collaborate on... any program on web development
+👯‍♀️ I'm looking to collaborate with you on any program on web development
 
 🔗 Links
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/emmizychuks )
+####Reach me through - [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/emmizychuks )
 
 🚀 About Me
 I'm a full stack developer...
