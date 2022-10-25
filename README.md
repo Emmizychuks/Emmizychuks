@@ -2,7 +2,7 @@
 
 ## I'm a student of Zuri training currently undergoing training to become a Full-Stack developer.
 
-🧠 I'm currently learning... HTML,CSS,JAVASCRIPT,and PYTHON
+🧠 I'm currently learning... HTML,CSS,JAVASCRIPT and PYTHON
 
 👯‍♀️ I'm looking to collaborate on... any program on web development
 
