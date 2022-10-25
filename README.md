@@ -6,9 +6,7 @@
 
 👯‍♀️ I'm looking to collaborate with you on any program on web development
 
-🔗 Links
-Contact me via - +2348169216507
-Reach me through  [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/emmizychuks )
+🔗 Links Reach me through  [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/emmizychuks )
 
 🚀 About Me
 I'm a full stack developer...
